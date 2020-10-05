@@ -1,28 +1,10 @@
-body {
-    background-color: #eee;
-}
-
-section {
-    min-height: 800px;
-}
-
-.jumbotron {
-    margin-top: 30px;
-}
-
-hr {
-    width: 200px;
-    border-top: 3px solid #555;
-}
-
-.profile {
-    background-color: #fff;
-}
-
-.gallery img {
-    margin-bottom: 30px;
-}
-
-.contact {
-    background-color: #fff;
+.container-login {
+    width: 300px;
+    height: 300px;
+    background-color: rgb(255, 153, 153);
+    padding: 20px;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
 }
