@@ -1,0 +1,28 @@
+body {
+    background-color: #eee;
+}
+
+section {
+    min-height: 800px;
+}
+
+.jumbotron {
+    margin-top: 30px;
+}
+
+hr {
+    width: 200px;
+    border-top: 3px solid #555;
+}
+
+.profile {
+    background-color: #fff;
+}
+
+.gallery img {
+    margin-bottom: 30px;
+}
+
+.contact {
+    background-color: #fff;
+}
